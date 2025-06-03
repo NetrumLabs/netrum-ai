@@ -36,4 +36,4 @@ From generating secure smart contracts to deploying them with frontend integrati
 
 ---
 
-> For community updates, follow our Twitter: [@netrumlabs](https://twitter.com/netrumlabs)
+> For community updates, follow our Twitter: [@netrum_ai](https://twitter.com/netrum_ai)
